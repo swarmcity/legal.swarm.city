@@ -1,0 +1,6 @@
+{
+  "name": "legal",
+  "short_name": "legal",
+  "start_url": "/",
+  "display": "standalone"
+}
